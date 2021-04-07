@@ -1,13 +1,13 @@
 # Discrete Scroll
 
-[![Downloads](https://img.shields.io/github/downloads/emreyolcu/discrete-scroll/total.svg)](https://github.com/emreyolcu/discrete-scroll/releases)
+[![Downloads](https://img.shields.io/github/downloads/debrunet/discrete-scroll-universal/total.svg)](https://github.com/debrunet/discrete-scroll/releases)
 
-Fix for OS X's scroll wheel problem
+Fix for OS X's scroll wheel problem. **Updated for Apple Silicon.**
 
 ## Installation
 
 You may download the binary
-[here](https://github.com/emreyolcu/discrete-scroll/releases/download/v0.1.1/DiscreteScroll.zip). It
+[here](https://github.com/debrunet/discrete-scroll-universal/releases/download/v0.1.1/DiscreteScroll.zip). It
 runs in the background and allows you to scroll 3 lines with each tick of the
 wheel.
 
